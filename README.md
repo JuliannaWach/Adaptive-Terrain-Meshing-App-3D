@@ -106,9 +106,13 @@ AdaptiveTerrainMeshingApp3D/
 
 ## 📸 Zrzuty ekranu / Screenshots
 
-![Terrain Generation](screenshots/terrain.png)
-![Adaptive Terrain](screenshots/adaptive.png)
-![Comparison](screenshots/comparison.png)
+| ![Terrain Generation](screenshots/terrain.png) |
+| :---: |
+| *Rysunek 1. Wygenerowany teren: crater (krater), proceduralnie 100x100 punktów* |
+| ![Adaptive Terrain](screenshots/adaptive.png) |
+| *Rysunek 2. Algorytm adaptacyjnego siatkowania na wygenerowanym terenie - 434 punkty* |
+| ![Comparison](screenshots/comparison.png) |
+| *Rysunek 3. Porównanie z siatką równomierną o takiej samej liczbie punktów - dla siatki adaptacyjnej 434 punkty, dla równomiernej - 400 punktów* |
 
 ---
 
